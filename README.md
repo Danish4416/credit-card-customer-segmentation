@@ -121,6 +121,8 @@ The goal is to identify the right customer segments to target and recommend appr
 \## 🚀 Conclusion
 
 This project helps identify potential customers and supports data-driven credit card decisions.
+- Identified 3–4 customer segments
+- Recommended target group for credit card launch
 
 
 
